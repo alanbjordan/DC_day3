@@ -1,4 +1,4 @@
-#Program prompts user for name and prints hello w/user's name
+#Program prompts user for a name and prints Hello to user's name
 
 user_name = input("What is your name?: ")
 
