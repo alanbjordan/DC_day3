@@ -1,5 +1,5 @@
 # Digital Crafts Day 3 Exercises 
 
-| Input |
-| if and elses statements |
+Topics include;
+input | upper | lower | len | float | int | if | else | "%.2f" | % |
 
